@@ -31,9 +31,3 @@ A specialized ranking of the top 3 MFIs. This is designed for investors looking 
 A Histogram showing how many MFIs fall into specific dividend ranges, helping to understand the sector's overall health.
 ![Dividend Histogram](dividend_histogram.png)
 
-## ⚙️ How to Setup and Run
-1. Clone this repository to your local machine.
-2. Ensure Python is installed.
-3. Install the required libraries:
-   ```bash
-   pip install pandas matplotlib seaborn
