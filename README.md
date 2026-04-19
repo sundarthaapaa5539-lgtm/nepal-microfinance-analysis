@@ -31,3 +31,10 @@ A specialized ranking of the top 3 MFIs. This is designed for investors looking 
 A Histogram showing how many MFIs fall into specific dividend ranges, helping to understand the sector's overall health.
 ![Dividend Histogram](dividend_histogram.png)
 
+📝 Conclusion
+Based on the data analysis, Sana Kisan and Chhimek are the dominant players in the market. For investors specifically seeking dividends, Sana Kisan stands in the First position with a 27% yield.
+Developed by: thapasundar
+Aspiring Freelance Developer | Data Analyst
+Project Date: April 2026
+
+
