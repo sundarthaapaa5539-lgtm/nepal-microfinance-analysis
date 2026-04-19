@@ -25,7 +25,7 @@ This chart identifies which microfinance has the largest reach in Nepal. Larger 
 
 ### 2. Top 3 Investment Choices (Dividend Basis)
 A specialized ranking of the top 3 MFIs. This is designed for investors looking for the highest annual returns.
-![Top 3 Investment](top_3_investment_mfi.png)
+![Top 3 Investment](dividend_bar_chart.png)
 
 ### 3. Dividend Distribution (Risk Analysis)
 A Histogram showing how many MFIs fall into specific dividend ranges, helping to understand the sector's overall health.
